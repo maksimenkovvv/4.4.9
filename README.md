@@ -1,8 +1,8 @@
 Регистрация
-![рег](https://user-images.githubusercontent.com/104681708/222804846-67b6f1f1-7a02-497d-9219-92961b546ae9.jpg)
+![рег](https://user-images.githubusercontent.com/104681708/222805420-6346749f-6a4e-4c2c-9e49-469a89879ff3.jpg)
 
 Аутентификация
-![аут](https://user-images.githubusercontent.com/104681708/222804906-b91f130c-6c41-4c99-b4a8-2a798e6d2de7.jpg)
+![аут](https://user-images.githubusercontent.com/104681708/222805447-7eebf748-5782-4639-96ad-25e691aa986f.jpg)
 
 Получение данных пользователя
-![получ](https://user-images.githubusercontent.com/104681708/222804987-93aa7af5-c550-44ed-b08c-c7554cbe38c6.jpg)
+![получ](https://user-images.githubusercontent.com/104681708/222805463-4bc3fc21-2dcf-4111-9b21-34da3d2ac4ba.jpg)
